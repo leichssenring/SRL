@@ -32,17 +32,4 @@ sections:
     design:
       view: card
       columns: '1'
-  
-  - block: collection
-    content:
-      title: Abschnitt 2: Relevanz
-      subtitle: Warum ist "selbstreguliertes Lernen" wichtig?
-      text:
-      count: 2
-      offset: 0
-      order: desc
-      page_type: learning
-    design:
-      view: card
-      columns: '1'
----
+
