@@ -8,27 +8,24 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Selbstreguliertes Lernen: Was Eltern wissen sollten
       image:
         filename: welcome.jpg
       text: |
         <br>
+        Was ist das Ziel dieses Lernpakets?
         
-        Wir haben 2 Lernpakete:
+        Wissenschaftlerinnen und Wissenschaftler forschen seit vielen Jahren intensiv dazu, wie Kinder am besten lernen. Viele wichtige Erkenntnisse aus der Forschung warten nur darauf, endlich in der Praxis umgesetzt zu werden. Dabei spielen Lehrerinnen und Lehrer im Unterricht eine Rolle, aber auch Sie als Eltern können etwas bewirken. Sicher haben Sie schon einmal an Ihrem eigenen Kind beobachtet, wie schwierig es sein kann, sich zum Lernen zu motivieren und beim Lernen am Ball zu bleiben. Sie als Eltern können Ihr Kind beim erfolgreichen Lernen unterstützen. Im Rahmen dieses Lernpakets wollen wir Ihnen als Eltern hierfür alles Wichtige zum Thema „Selbstreguliertes Lernen“ mit auf den Weg geben. 
+        
+        Das Lernpaket ist in 3 Abschnitte gegliedert. In jedem Abschnitt können Sie sich mit einem anderen Aspekt von „selbstreguliertem Lernen“ beschäftigen:
+
   
   - block: collection
     content:
-      title: Lernabschnitte
-      subtitle:
+      title: Abschnitt 1: Verständnis
+      subtitle: Was ist "selbstreguliertes Lernen"?
       text:
       count: 2
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
       offset: 0
       order: desc
       page_type: learning
@@ -36,4 +33,16 @@ sections:
       view: card
       columns: '1'
   
+  - block: collection
+    content:
+      title: Abschnitt 2: Relevanz
+      subtitle: Warum ist "selbstreguliertes Lernen" wichtig?
+      text:
+      count: 2
+      offset: 0
+      order: desc
+      page_type: learning
+    design:
+      view: card
+      columns: '1'
 ---
